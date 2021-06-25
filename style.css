@@ -9,6 +9,7 @@
        url("Fonts/ApfelGrotezk-Regular.woff") format("woff");
 }
 *{
+  background-color: black;
   font-family: 'ApfelGrotezk Regular', Helvetica, sans-serif;
 }
 /* Custom default button */
